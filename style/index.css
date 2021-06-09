@@ -60,7 +60,7 @@ body {
 	
 }
 .year, .c1, .c2, .c3, .c4 {
-	color: #00253e; font-family: BentonSans, calibri, sans-serif; font-size: 12px; font-weight:500;
+	color: #231f45; font-family: BentonSans, calibri, sans-serif; font-size: 12px; font-weight:500;
 	position: absolute;
 transform: translateZ(5px);
 }
